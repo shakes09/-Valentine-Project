@@ -27,7 +27,8 @@ Eventually, they give in (hopefully)!
 
 🚀 Try It Out
 
-You can test the live version here: [GitHub Pages Link] (replace with actual URL)
+You can test the live version here: https://shakes09.github.io/
+
 
 🎨 Customization
 
